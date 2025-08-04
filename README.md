@@ -4,7 +4,7 @@ To run this Gantt chart on Streamlit, follow these steps:
 Open your terminal or command prompt and run:
 
 
-   pip install streamlit
+    pip install streamlit
 
 ✅ Step 2: Download the code gantt_chart.py to a specific folder.
 
