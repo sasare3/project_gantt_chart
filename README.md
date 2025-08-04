@@ -1,4 +1,4 @@
-#To run this Gantt chart on Streamlit, follow these steps:
+##To run this Gantt chart on Streamlit, follow these steps:
 
 ✅ Step 1: Install Streamlit (if not already installed)
 Open your terminal or command prompt and run:
