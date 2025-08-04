@@ -1,4 +1,4 @@
-To run this Gantt chart on Streamlit, follow these steps:
+#To run this Gantt chart on Streamlit, follow these steps:
 
 ✅ Step 1: Install Streamlit (if not already installed)
 Open your terminal or command prompt and run:
@@ -15,10 +15,11 @@ and run:
 
    streamlit run gantt_chart.py
 
-the chart will open in a new window
+The chart will open in a new window
 
- if command prompt does'nt work, open powershell and run the command there.
- Alternatively, you can use 'Anaconda Prompt' to run the commands
+ If command prompt does'nt work, open powershell and run the command there.
+ Alternatively, you can use 'Anaconda Prompt' to run the commands.
+ 
  To use Anaconda Prompt, install in powershell using the following command:
  
     pip install conda
